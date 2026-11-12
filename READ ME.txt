@@ -1,0 +1,9 @@
+SK COLLECTION MENSWEAR — DIRECT-OPEN PREVIEW
+
+1. Extract the entire ZIP folder.
+2. Open index.html in Chrome, Edge, Safari or Firefox. Keep the assets folder, app.js and styles.css together with index.html.
+3. No Python, installation or server is needed for this direct-open preview.
+
+This preview includes the seven storefront pages, product search, filters, product details, quick view, and a cart and wishlist saved in this browser. All products, sizes, stock and prices are illustrative. Imagery is AI-generated concept imagery.
+
+IMPORTANT: This is a FRONTEND PREVIEW. It cannot register or sign in, create or track orders, manage stock in a database, use an admin dashboard, process payments, or send contact forms. Those features need the separate server version; even there, orders are local demonstrations and no payment or real order is processed. Do not enter real passwords or customer data here. Neither version is ready for real-world production use.
